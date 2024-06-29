@@ -21,7 +21,7 @@ public class Launch_Browser {
 		
 		driver.manage().window().maximize();
 		
-		
+		System.out.println("Browser opened...");
 
 	}
 
